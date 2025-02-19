@@ -12,7 +12,7 @@
 
 ### Task 5: Roots
 
-### Task 6: Proof of Workone English dictionary.
+### Task 6: Proof of Work
 
 ### Task 7: Turing Machines
 
