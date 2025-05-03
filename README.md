@@ -1,5 +1,17 @@
 # computationalTheory
 
+A collection of computational theory concepts implemented in Python, presented as Jupyter notebook tasks.
+
+## Getting Started
+
+To run these tasks:
+
+1. Clone this repository
+2. Install required dependencies: `pip install -r requirements.txt` (if needed)
+3. Open `tasks.ipynb` in Jupyter Notebook or Jupyter Lab
+4. Execute the cells to see the examples in action
+
+
 ## Tasks
 
 ### Task 1: Binary Representations
