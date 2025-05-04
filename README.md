@@ -1,10 +1,35 @@
 # computationalTheory
 
-A collection of computational theory concepts implemented in Python, presented as Jupyter notebook tasks.
+- Required repository for "Computational Theory" course.
+- Notes and Assessment page here: https://github.com/ianmcloughlin/computational_theory
 
-## Tasks from:
+## Table of Contents
+- [Module Overview](#module-overview)
+- [Getting Started](#getting-started)
+- [Tasks](#tasks)
+  - [Task 1: Binary Representations](#task-1-binary-representations)
+  - [Task 2: Hash Functions](#task-2-hash-functions)
+  - [Task 3: SHA256](#task-3-sha256)
+  - [Task 4: Prime Numbers](#task-4-prime-numbers)
+  - [Task 5: Roots](#task-5-roots)
+  - [Task 6: Proof of Work](#task-6-proof-of-work)
+  - [Task 7: Turing Machines](#task-7-turing-machines)
+  - [Task 8: Computational Complexity](#task-8-computational-complexity)
 
-- https://github.com/ianmcloughlin/computational_theory/blob/main/assessment/tasks.md
+## Module Overview
+
+This repository serves as a comprehensive exploration of computational theory concepts, implemented and demonstrated using Python. It is designed to provide hands-on experience with fundamental topics in computer science, ranging from binary operations and cryptographic algorithms to Turing machines and computational complexity. Each concept is presented as a task within a Jupyter notebook, allowing for interactive learning and experimentation.
+
+The module covers a wide array of topics, including:
+
+- **Binary Representations**: Understanding and manipulating binary data, a cornerstone of computer science.
+- **Hash Functions**: Exploring the principles of hashing, including custom implementations and their applications in data integrity and cryptography.
+- **SHA256**: Delving into the mechanics of the SHA256 cryptographic hash function, including its padding requirements and use cases.
+- **Prime Numbers**: Investigating prime number generation and their significance in cryptography and number theory.
+- **Mathematical Roots**: Calculating constants derived from mathematical roots, often used in cryptographic algorithms.
+- **Proof of Work**: Simulating a simplified proof-of-work system, a key concept in blockchain technology.
+- **Turing Machines**: Implementing a Turing machine to understand the theoretical foundations of computation.
+- **Computational Complexity**: Analyzing the performance of algorithms, with a focus on sorting and its computational implications.
 
 ## Getting Started
 
@@ -14,7 +39,6 @@ To run these tasks:
 2. Install required dependencies: `pip install -r requirements.txt` (if needed)
 3. Open `tasks.ipynb` in Jupyter Notebook or Jupyter Lab
 4. Execute the cells to see the examples in action
-
 
 ## Tasks
 
