@@ -2,6 +2,10 @@
 
 A collection of computational theory concepts implemented in Python, presented as Jupyter notebook tasks.
 
+## Tasks from:
+
+- https://github.com/ianmcloughlin/computational_theory/blob/main/assessment/tasks.md
+
 ## Getting Started
 
 To run these tasks:
